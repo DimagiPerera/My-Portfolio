@@ -118,7 +118,7 @@ function Home() {
               </h3>
               <h5 className="home__text pz__10"></h5><br></br><br></br>
             
-              <a href="https://wa.me/715470659"><img style={{marginLeft:20}} src={logo2} alt="" className="logo2" /></a>
+              <a href="https://wa.me/783034591"><img style={{marginLeft:20}} src={logo2} alt="" className="logo2" /></a>
               <a href="https://www.linkedin.com/in/dimagi-perera-63a40521a"><img style={{marginLeft:20}} src={logo3} alt="" className="logo1" /></a>
               <a href="https://github.com/DimagiPerera"><img style={{marginLeft:20}} src={logo4} alt="" className="logo1" /></a>
               <a href=""><img style={{marginLeft:20}} src={logo5} alt="" className="logo1" /></a>
