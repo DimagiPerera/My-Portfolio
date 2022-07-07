@@ -1,7 +1,7 @@
 .home__bg {
   background-image: url(../../CV/src/img/bg.png);
   background-color: black;
-  background-size: 100rem;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 

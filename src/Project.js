@@ -45,7 +45,7 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project9} alt="" style={{width:500,height:665}} className="project__img" />
+                             <img src={Project9} style={{width:500,height:665}} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
