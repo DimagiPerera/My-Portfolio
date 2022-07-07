@@ -34,7 +34,7 @@ const About = () => {
                 Studio, GIT and Java language.
               </p>
               <p className="about__text p__color">
-                And I am a productive individual with an out-going amiable character
+                And I am a productive individual with an out-going aimable character
                 and a capacity to work effectively and efficiently as a part of a
                 group as well on own initiative.
               </p>
