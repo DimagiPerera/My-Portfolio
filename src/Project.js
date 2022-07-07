@@ -6,7 +6,7 @@ import Project3 from './img/portfolio-3.jpg';
 import Project4 from './img/portfolio-4.jpg';
 import Project5 from './img/portfolio-5.jpg';
 import Project6 from './img/portfolio-6.jpg';
-import Project7 from './img/portfolio-7.png';
+import Project7 from './img/portfolio-7.jpg';
 import Project8 from './img/about.jpg';
 import Project9 from './img/project9.jpg';
 
@@ -29,7 +29,7 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project7} style={{width:500,height:665}}alt="" className="project__img" />
+                             <img src={Project7} style={{height:450}}alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
@@ -45,7 +45,7 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project9} style={{width:500,height:665}} alt="" className="project__img" />
+                             <img src={Project9} style={{height:450}} alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
@@ -61,7 +61,7 @@ function Project() {
                  <div className="project__box pointer relative">
                      <div className="project__box__img pointer relative">
                          <div className="project__img__box">
-                             <img src={Project8} style={{width:500,height:665}}alt="" className="project__img" />
+                             <img src={Project8} style={{height:450,width:380}}alt="" className="project__img" />
                          </div>
                          <div className="mask__effect"></div>
                      </div>
